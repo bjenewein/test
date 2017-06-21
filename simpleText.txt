@@ -18,11 +18,12 @@ is aggressively working to get a bigger share of the global commercial satellite
 launch market.
 
 India has so far relied on other countries to send heavy satellites into space, 
-which is ** and a drain on Isro's budget.
-The GSLV Mark III can carry put a payload weighing more than ** tonnes into the 
+which is inefficient and a drain on Isro's budget.
+
+The GSLV Mark III can carry put a payload weighing more than 15 tonnes into the 
 high altitude orbit occupied by the spacecraft that relay TV, telephone calls 
 and broadband connections.
 
 But it's far from being the world's heaviest rocket because Nasa's Saturn V, 
-which was used between 1967 and **, still holds that record, with total mass 
-at lift-off about ** times that of India's GSLV Mark III.
+which was used between 1967 and 1975, still holds that record, with total mass 
+at lift-off about 5 times that of India's GSLV Mark III.
